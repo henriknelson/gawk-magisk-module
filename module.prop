@@ -1,0 +1,6 @@
+id=gawk-nelshh
+name=gawk for Android
+version=v5.1.0
+versionCode=1
+author=nelshh
+description=A statically built version of the gawk tool for android (aarch64)
